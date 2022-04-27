@@ -21,4 +21,4 @@ clean :
   
 .PHONY: all
 all : 
-	jupyter execute index.ipynb --kernel_name=ligo
+	 jupyter execute index.ipynb --kernel_name=ligo
