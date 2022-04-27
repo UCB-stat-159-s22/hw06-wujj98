@@ -1,1 +1,3 @@
-ligotools
+jupyter-book
+matplotlib
+numpy
